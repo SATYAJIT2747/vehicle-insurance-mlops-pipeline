@@ -1,0 +1,2 @@
+# vehicle-insurance-mlops-pipeline
+Vehicle Insurance Prediction | End-to-End MLOps Pipeline  An end-to-end production-grade MLOps project for predicting vehicle insurance interest using Machine Learning, FastAPI, Docker, GitHub Actions, AWS, and MongoDB.

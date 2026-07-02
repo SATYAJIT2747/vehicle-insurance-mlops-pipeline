@@ -1,0 +1,7 @@
+ **`-e .` tells `pip` to install the current project (`.`) in editable mode (`-e`), so changes to the source code are reflected immediately without reinstalling the package.**
+
+
+
+satyajitpriyadarshi_db_user
+199rdEaXLlvI8DsE
+mongodb+srv://satyajit:<db_password>@cluster0.udzutso.mongodb.net/?appName=Cluster0
